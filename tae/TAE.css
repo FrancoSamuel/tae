@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+.titulo1{
+text-align: center;
+
+        }
+.titu {
+    text-align: center;
+}
+.resp1{
+    text-align: center;
+}
+.resp2{
+    margin-left: 170px;
+    display: inline-block;
+}
+
+.resp3{
+    text-align: center;
+}
+resp4{
+    margin-left: 170px;
+    display: inline-block ;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-login {
+    width: 400px;
+    height: 380x;
+    background: #BD3131DE;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 7px 13px 37px #BD3131DE;
+    padding: 20px 30px;
+    color: black;
+  }
+  
+  .form-login h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+  }

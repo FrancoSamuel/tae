@@ -1,0 +1,19 @@
+ <h3 class="resp1">
+        respuesta1
+    </h3>
+    <br>
+    <div class="div">
+    <h3 class="resp2"> respuesta2 </h3> 
+    
+    <h3 class="resp4"> respuesta4</h3>
+    </div>
+    <br>
+    <br>
+    <br>
+    <h3 class="resp3">
+        respuesta3
+    </h3>
+
+    <a href="pregunta2.html">
+        <button>Siguiente pregunta</button>
+    </a>
